@@ -12,5 +12,9 @@
 + College : Analysis and Develop Systems  4/5 loading....
 + Bootcamp LaunchBase : Loading...
 + English : C1
++ main language : Javascript
++ framework : Ionic
 
-Currently my main programmer language it's JS that I have been learning in LaunchBase with the teacher Maik Brito. I am looking to learn Python too because I want to have contact with I.A , Data science etc..
+#### I have trying hard to become be a professional programmer and i hope to get m goals
+
+
