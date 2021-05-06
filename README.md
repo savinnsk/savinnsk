@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/savinnsk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
-### Tech & Tools Preference
+### Main  Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -21,19 +21,18 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
+### Others Tech 
 
+### Info
 
-+ phone:  (22) 996043721
-
-
-## about my personal life ,skills and experiences etc ...
-
++ phone:  +5522996043721
 + College : Analysis and Develop Systems  4/5 loading....
-+ Bootcamp LaunchBase : Loading...
-+ English : C1
-+ main language : Javascript
-+ framework : Ionic
++ English : B2
++ Brazilian guy 
++ Born : 25/01/2000
++ Looking for job opportunities 
 
-#### I have trying hard to become be a professional programmer and i hope to get m goals
+
+#### Never stop Learning 
 
 
