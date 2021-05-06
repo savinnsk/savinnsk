@@ -1,5 +1,7 @@
 # Savio Picanço Brito
 
+<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/> feel welcome! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
 ### Networking
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Saviopb/)](https://github.com/Saviopb/)
