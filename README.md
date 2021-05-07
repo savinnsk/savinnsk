@@ -25,7 +25,8 @@
 
 ### Info
 
-+ phone:  +5522996043721
++ phone :  +5522996043721
++ email : savio.document@gmail.com
 + College : Analysis and Develop Systems  4/5 loading....
 + English : B2
 + Brazilian guy 
