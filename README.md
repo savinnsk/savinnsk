@@ -30,7 +30,7 @@
 + College : Analysis and Develop Systems  4/5 loading....
 + English : B2
 + Brazilian guy 
-+ Born : 25/01/2000
++ Age : 21
 + Looking for job opportunities 
 
 
