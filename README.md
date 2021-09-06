@@ -27,7 +27,7 @@
 
 + phone :  +5522996043721
 + College : Analysis and Develop Systems  4/5 loading....
-+ English : B2
++ English and Portuguese
 + Brazilian guy 
 + Age : 21
 
