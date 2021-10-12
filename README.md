@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/savinnsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savinnsk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/savio-picanço-b739a518a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savio-picanço-b739a518a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceqgbikbsbkvr5tcdbaga5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceqgbikbsbkvr5tcdbaga5w" height="30" width="40" /></a>
+<a href="https://m.youtube.com/channel/UCEQgbikBsBKVR5tCdBAga5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceqgbikbsbkvr5tcdbaga5w" height="30" width="40" /></a>
 <a href="https://discord.gg/kKAuupAF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kKAuupAF" height="30" width="40" /></a>
 </p>
 
