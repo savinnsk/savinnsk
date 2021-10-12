@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savio-pican%C3%A7o-b739a518a/)](https://www.linkedin.com/in/savio-pican%C3%A7o-b739a518a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/savinnsk)](https://twitter.com/savinnsk)
 <a href="https://www.instagram.com/savinnsk_front_end/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.youtube.com/channel/uceqgbikbsbkvr5tcdbaga5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceqgbikbsbkvr5tcdbaga5w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEQgbikBsBKVR5tCdBAga5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceqgbikbsbkvr5tcdbaga5w" height="30" width="40" /></a>
 
 
 ### Main  Tech & Tools Preference
