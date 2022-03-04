@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **my projects**
 
-- 👨‍💻Some of my projects are available at [https://vercel.com/saviodocuments-gmailcom/my-repository](https://vercel.com/saviodocuments-gmailcom/my-repository)
-
 - 💬 Ask me about **everything, let's share experience**
 
 - 📫 How to reach me **saviodocuments@gmail.com**
