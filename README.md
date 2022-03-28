@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saviopb&label=Profile%20views&color=0e75b6&style=flat" alt="saviopb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saviopb" alt="saviopb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/savinnsk" target="blank"><img src="https://img.shields.io/twitter/follow/savinnsk?logo=twitter&style=for-the-badge" alt="savinnsk" /></a> </p>
 
