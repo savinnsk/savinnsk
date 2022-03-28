@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sávio Picanço</h1>
-<h3 align="center">Node - JavaScript developer</h3>
+<h3 align="center">JavaScript developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saviopb&label=Profile%20views&color=0e75b6&style=flat" alt="saviopb" /> </p>
 
