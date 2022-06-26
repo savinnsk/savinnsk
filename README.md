@@ -17,6 +17,14 @@
 
 - ⚡ Fun fact **I'm trying make friends**
 
+My main programming language : Javascript / Node-js/Typescript
+I Have been developing a systems /API REST to solve problems with unity test and integrate with the lib jest,
+running my code in containers using Docker/Docker-Compose.
+Usually I use TypeORM to create entities,migrations,and query to obtain an organized Database. 
+
+I have interesting about Machine Learning and Data science and create content about technolo
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/savinnsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savinnsk" height="30" width="40" /></a>
