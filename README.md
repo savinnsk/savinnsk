@@ -8,24 +8,24 @@
 
 
 ```zsh 
-My main programming language : Javascript / Node-js/Typescript
+My main programming language: Javascript / Node-js/Typescript
 I Have been developing a systems /API REST to solve problems with unity test and integrate with the lib jest,
 running my code in containers using Docker/Docker-Compose.
-Usually I use TypeORM to create entities,migrations,and query to obtain an organized Database. 
+Usually, I use TypeORM to create entities, migrations, and queries to obtain an organized Database. 
 
-I have interesting about Machine Learning and Data science and create content about technolo
+I have interesting in Machine Learning and Data science and creating content about technology.
 ```
 
 - 🔭 I’m currently working on [Channel on Youtube](https://www.youtube.com/channel/UCEQgbikBsBKVR5tCdBAga5w)
 
-- 🤝 I’m looking : for people to code with me! 
+- 🤝 I’m looking: for people to code with me! 
 
-- 💬 Ask me about : **everything, let's share experience**
+- 💬 Ask me about: **everything, let's share experience**
 
-- 📫 How to reach me :  **saviodocuments@gmail.com**
-- Instagram : @savinnskdev
+- 📫 How to reach me:  **saviodocuments@gmail.com**
+- Instagram: @savinnskdev
 
-- ⚡ Fun fact about me : **I'm trying make friends**
+- ⚡ Fun fact about me: **I'm trying to make friends**
 
 
 
