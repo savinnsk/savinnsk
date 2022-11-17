@@ -19,17 +19,16 @@
 - ✅  clean-code - SOLID - clean-architecture
 - ✅  Doker - aws-cloud - S3 - EC2
 - ✅  Ci/CD
-- ✅  Mongo - Postgres - TypeOrm
+- ✅  Mongo - Postgres - TypeOrm 
+- ✅  React-js - Css 
 
 
-## About 
+## Contact
 
 - 🔭  [Channel on Youtube](https://www.youtube.com/channel/UCEQgbikBsBKVR5tCdBAga5w)
-- 📫 How to reach me:  **saviodocuments@gmail.com**
+- 📫 email:  **saviodocuments@gmail.com**
 - 📷 [Instagram](https://www.instagram.com/savinnskdev/)
 - 🖥️ [Likedin](https://www.linkedin.com/in/savio-pican%C3%A7o-b739a518a/)
-- ⚡ Fun fact about me: **I'm trying to make friends**
-- 👨‍💻 **learning** : Python - React-js 
 
 
 
