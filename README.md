@@ -28,7 +28,7 @@
 - 🔭  [Channel on Youtube](https://www.youtube.com/channel/UCEQgbikBsBKVR5tCdBAga5w)
 - 📫 email:  **saviodocuments@gmail.com**
 - 📷 [Instagram](https://www.instagram.com/savinnskdev/)
-- 🖥️ [Likedin](https://www.linkedin.com/in/savio-pican%C3%A7o-b739a518a/)
+- 🖥️ [Likedin](https://www.linkedin.com/in/s%C3%A1vio-pican%C3%A7o-b739a518a)
 
 
 
