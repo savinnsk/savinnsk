@@ -14,17 +14,17 @@
 
 ## Main - Skills 
 
-- ✅  JavaScript - Node-js - Typescript
+- ✅  JavaScript - Node-js - Typescript - NestJS
 - ✅  integration-test - TDD -  unity-test 
 - ✅  clean-code - SOLID - clean-architecture
-- ✅  Doker - aws-cloud - S3 - EC2
-- ✅  Ci/CD
 - ✅  Mongo - Postgres - TypeOrm 
 
 
 ## Others - Skills
 
 - ✅  React-js - Css 
+- ✅  Doker - aws-cloud - S3 - EC2
+- ✅  Ci/CD
 
 
 ## Contact
