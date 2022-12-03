@@ -9,7 +9,7 @@
 ## Intro
 
 ```zsh 
-  Hi everyone, I'm a Brazilian guy trying turn life better with code...
+  ✅ Hi everyone, I'm a Brazilian guy trying turn life better with code...
 ```
 
 ## Main - Skills 
