@@ -10,7 +10,7 @@
 
 ```zsh 
   🧑  Hi everyone, I'm a Brazilian guy trying turn life better with code...
-  🇧🇷  I'm a banckend developer, and I enjoy create and solve problems,
+  🇧🇷  I'm a backend developer, and I enjoy create and solve problems,
   🖥️  both in groups and individually.
   🤯  I'm open mind to any technologies,architecture or method.
 ```
