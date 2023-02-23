@@ -10,10 +10,10 @@
 ## Intro
 
 ```zsh 
-  🧑  Hi everyone, I'm a Brazilian guy trying turn life better with code...
-  🇧🇷  I'm a backend developer, and I enjoy create and solve problems,
+  🧑  Hi everyone, I'm a Brazilian guy trying to make life better with code...
+  🇧🇷  I'm a backend developer, and I enjoy creating and solving problems,
   🖥️  both in groups and individually.
-  🤯  I'm open mind to any technologies,architecture or method.
+  🤯  I'm open-minded to any technologies,architecture or method.
 ```
 
 ## Main - Skills 
