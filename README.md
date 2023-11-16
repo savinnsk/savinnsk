@@ -34,7 +34,7 @@
 ## Contact
 
 
-- 🖥️ [Likedin]([https://www.linkedin.com/in/s%C3%A1vio-pican%C3%A7o-b739a518a](https://www.linkedin.com/in/s%C3%A1vio-b-b739a518a/)https://www.linkedin.com/in/s%C3%A1vio-b-b739a518a/)
+- 🖥️ [Likedin](https://www.linkedin.com/in/s%C3%A1vio-b-b739a518a)
 
 
 
