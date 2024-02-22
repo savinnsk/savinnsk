@@ -1,4 +1,4 @@
-<h1 align="center">Let's Code
+<h1 align="center">Hi
 </h1>
 <h3 align="center">Software Developer</h3>
 
@@ -18,7 +18,8 @@
 
 ## Main - Skills 
 
-- ✅  JavaScript - Node-js - Typescript - NestJS
+- ✅  JavaScript - Node-js - Typescript - NestJs
+- ✅  Golang
 - ✅  integration-test - TDD -  unity-test 
 - ✅  clean-code - SOLID - clean-architecture
 - ✅  Mongo - Postgres - TypeOrm 
