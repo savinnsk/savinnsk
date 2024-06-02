@@ -19,7 +19,6 @@
 ## Main - Skills 
 
 - ✅  JavaScript - Node-js - Typescript - NestJs
-- ✅  Golang
 - ✅  integration-test - TDD -  unity-test 
 - ✅  clean-code - SOLID - clean-architecture
 - ✅  Mongo - Postgres - TypeOrm 
