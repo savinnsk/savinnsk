@@ -16,7 +16,7 @@
 
 ✅  Experience
 
-    ✅ Capco
+    ✅ Capco 
     Full-stack Developer - Systems Analyst. April 2024 - Present. Macaé, Rio de Janeiro, Brazil - Hybrid.
     
     ✅ in8 Holding
