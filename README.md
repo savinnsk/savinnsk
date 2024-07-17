@@ -1,34 +1,41 @@
-<h1 align="center">Hi
+<h1 align="center">Hello everyone
 </h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer FULLSTACK C# JAVASCRIPT GOLANG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saviopb&label=Profile%20views&color=0e75b6&style=flat" alt="saviopb" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/savinnsk" target="blank"><img src="https://img.shields.io/twitter/follow/savinnsk?logo=twitter&style=for-the-badge" alt="savinnsk" /></a> </p>
-
 ## Intro
 
-```zsh 
-  🧑  Hi everyone, I'm a Brazilian guy trying to make life better with code...
-  🇧🇷  I'm a backend developer, and I enjoy creating and solving problems,
-  🖥️  both in groups and individually.
-  🤯  I'm open-minded to any technologies,architecture or method.
-```
+
+ ✅  Summary
+ 
+    Currently at Capco, working with Petrobras as a Software Developer, focusing on
+    development, maintenance, and data analysis for their underwater systems using
+    data analysis tools like Power Bi, Power Apps, C#. Previously at in8 Holding, specialized in implementing payment gateways and developing software solutions. Proficient in JavaScript, ReactJS, Node.js, Redis, Next.js,     and AWS, with experience in Docker. Embrace Test-Driven Development (TDD) and thrive in agile environments like Scrum. 
+
+✅  Experience
+
+    ✅ Capco
+    Full-stack Developer - Systems Analyst. April 2024 - Present. Macaé, Rio de Janeiro, Brazil - Hybrid.
+    
+    ✅ in8 Holding
+    Full-stack Developer. November 2022 - May 2024 (1 year 7 months). Remote
+
 
 ## Main - Skills 
 
-- ✅  JavaScript - Node-js - Typescript - NestJs
-- ✅  integration-test - TDD -  unity-test 
-- ✅  clean-code - SOLID - clean-architecture
-- ✅  Mongo - Postgres - TypeOrm 
+    - ✅  JavaScript - Node-js - Typescript - NestJs - .NET - C#
+    - ✅  integration-test - TDD -  unity-test 
+    - ✅  clean-code - SOLID - clean-architecture
+    - ✅  Mongo - Postgres - TypeOrm 
 
 
 ## Others - Skills
 
-- ✅  React-js - Css 
-- ✅  Doker - aws-cloud - S3 - EC2
-- ✅  Ci/CD
+    - ✅  React-js - Css 
+    - ✅  Doker - aws-cloud - S3 - EC2
+    - ✅  Ci/CD
 
 
 ## Contact
