@@ -12,7 +12,9 @@
  
     Currently with Petrobras as a Software Developer, focusing on
     development, maintenance, and data analysis for their underwater systems using
-    data analysis tools like Power Bi, Power Apps, C#. Previously at in8 Holding, specialized in implementing payment gateways and developing software solutions. Proficient in JavaScript, ReactJS, Node.js, Redis, Next.js,     and AWS, with experience in Docker. Embrace Test-Driven Development (TDD) and thrive in agile environments like Scrum. 
+    data analysis tools like Power Bi, Power Apps, C#. Previously at in8 Holding, specialized in implementing payment gateways 
+    and developing software solutions. Proficient in JavaScript, ReactJS, Node.js, Redis, Next.js,
+    and AWS, with experience in Docker. Embrace Test-Driven Development (TDD) and thrive in agile environments like Scrum. 
 
 ✅  Experience
 
