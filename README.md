@@ -18,8 +18,11 @@
 
 ✅  Experience
 
+    ✅ TECSERVICE 
+    Full-stack Developer - Systems Analyst. November 2024 - Present. Macaé, Rio de Janeiro, Brazil - Remote.
+    
     ✅ Capco 
-    Full-stack Developer - Systems Analyst. April 2024 - Present. Macaé, Rio de Janeiro, Brazil - Hybrid.
+    Full-stack Developer - Systems Analyst. April 2024 -  November 2024. Macaé, Rio de Janeiro, Brazil - Hybrid.
     
     ✅ in8 Holding
     Full-stack Developer. November 2022 - May 2024 (1 year 7 months). Remote
