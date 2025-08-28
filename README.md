@@ -1,7 +1,7 @@
 
 <!-- README.md - Perfil Retro Style -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Savinnsk;Fullstack+Dev+%7C+Golang+%7C+Nodejs;Welcome+to+my+Zone+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Savinnsk;Fullstack+Dev+%7C+.NET+%7C+Nodejs+Reactjs;Welcome+to+my+Zone+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ```
@@ -35,9 +35,13 @@ Proficient in **JavaScript**, **ReactJS**, **Node.js**, **Redis**, **Next.js**, 
 
 ## 💼 Experience
 
+  - ✅ [**HighCapital**](https://github.com/HighCapitalTech)
+  *Full-stack Developer*  
+  🗓️ *Out 2025 – * · 🌍 *Remote*
+
 - ✅ [**TecsService**](https://tecserviceengenharia.com.br)
   *Full-stack Developer / Systems Analyst*  
-  🗓️ *Nov 2024 – Present* · 🌍 *Remote · Macaé, RJ*
+  🗓️ *Nov 2024 – * · 🌍 *Remote · Macaé, RJ*
 
 - ✅  [**Capco**](https://www.capco.com/) 
   *Full-stack Developer / Systems Analyst*  
